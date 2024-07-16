@@ -28,10 +28,12 @@ This project was created to enhance my skills in UI/UX design and to provide a t
 
 Here are some screenshots of the design:
 Home Screen 
-https://github.com/user-attachments/assets/73a569ff-dee0-42d9-9971-2c90309bf473
+![image](https://github.com/user-attachments/assets/73a569ff-dee0-42d9-9971-2c90309bf473)
 
 Main Pages 
 https://github.com/user-attachments/assets/2fbedf9e-23c7-4dbd-aca9-1886256229d7
+
+
 
 https://github.com/user-attachments/assets/07800316-a76a-4bc4-ac08-427295540f02
 
