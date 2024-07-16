@@ -28,16 +28,16 @@ This project was created to enhance my skills in UI/UX design and to provide a t
 
 Here are some screenshots of the design:
 Home Screen 
-![image](https://github.com/user-attachments/assets/73a569ff-dee0-42d9-9971-2c90309bf473)
+https://github.com/user-attachments/assets/73a569ff-dee0-42d9-9971-2c90309bf473
 
 Main Pages 
-![image](https://github.com/user-attachments/assets/2fbedf9e-23c7-4dbd-aca9-1886256229d7)
+https://github.com/user-attachments/assets/2fbedf9e-23c7-4dbd-aca9-1886256229d7
 
-(![image](https://github.com/user-attachments/assets/07800316-a76a-4bc4-ac08-427295540f02))
+https://github.com/user-attachments/assets/07800316-a76a-4bc4-ac08-427295540f02
 
 Plant Details
-![image](https://github.com/user-attachments/assets/b4ae1961-05dc-4838-bfe5-d5b60fe28d98)
+https://github.com/user-attachments/assets/b4ae1961-05dc-4838-bfe5-d5b60fe28d98
 
 User Account
-![image](https://github.com/user-attachments/assets/324a5e08-7ae0-4d16-965b-54acf7db5ad2)
+https://github.com/user-attachments/assets/324a5e08-7ae0-4d16-965b-54acf7db5ad2
 
