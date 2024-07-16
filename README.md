@@ -39,6 +39,4 @@ Here are some screenshots of the design:
 **Plant Details**
 ![image](https://github.com/user-attachments/assets/0213b100-9573-4b86-884a-d8c25590f7e3)
 
-**User Account**
-![image](https://github.com/user-attachments/assets/abb27669-7099-4863-b588-7d1b63afc605)
 
