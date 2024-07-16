@@ -34,8 +34,6 @@ Here are some screenshots of the design:
 **Main Pages** 
 ![image](https://github.com/user-attachments/assets/2fbedf9e-23c7-4dbd-aca9-1886256229d7)
 
-
-
 ![image](https://github.com/user-attachments/assets/07800316-a76a-4bc4-ac08-427295540f02)
 
 **Plant Details**
