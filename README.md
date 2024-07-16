@@ -37,7 +37,7 @@ Here are some screenshots of the design:
 ![image](https://github.com/user-attachments/assets/07800316-a76a-4bc4-ac08-427295540f02)
 
 **Plant Details**
-![image](https://github.com/user-attachments/assets/b4ae1961-05dc-4838-bfe5-d5b60fe28d98)
+![image](https://github.com/user-attachments/assets/0213b100-9573-4b86-884a-d8c25590f7e3)
 
 **User Account**
 ![image](https://github.com/user-attachments/assets/324a5e08-7ae0-4d16-965b-54acf7db5ad2)
