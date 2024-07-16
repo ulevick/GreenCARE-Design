@@ -40,5 +40,6 @@ Here are some screenshots of the design:
 ![image](https://github.com/user-attachments/assets/0213b100-9573-4b86-884a-d8c25590f7e3)
 
 **User Account**
-![image](https://github.com/user-attachments/assets/324a5e08-7ae0-4d16-965b-54acf7db5ad2)
+![image](https://github.com/user-attachments/assets/abb27669-7099-4863-b588-7d1b63afc605)
+
 
