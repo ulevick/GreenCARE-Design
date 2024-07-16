@@ -42,4 +42,3 @@ Here are some screenshots of the design:
 **User Account**
 ![image](https://github.com/user-attachments/assets/abb27669-7099-4863-b588-7d1b63afc605)
 
-
